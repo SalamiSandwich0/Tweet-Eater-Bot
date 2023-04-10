@@ -14,5 +14,4 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     driver = "./chrome-win/chrome.exe"
     twitterBot = twitBot(driver=driver)
-
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/

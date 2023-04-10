@@ -11,4 +11,3 @@ class twitBot(webdriver.Chrome):
 
     def collectTweetCSV(self):
         pass
-
